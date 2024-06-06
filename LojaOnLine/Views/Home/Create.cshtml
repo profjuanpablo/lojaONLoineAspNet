@@ -1,0 +1,45 @@
+﻿@model LojaOnline.Models.Produto
+
+@{
+    ViewData["Title"] = "Create Product";
+}
+
+<h1>Create Product</h1>
+
+<form asp-action="Create" enctype="multipart/form-data" method="post">
+    <div class="form-group">
+        <label asp-for="Nome" class="control-label"></label>
+        <input asp-for="Nome" class="form-control" />
+        <span asp-validation-for="Nome" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Descricao" class="control-label"></label>
+        <input asp-for="Descricao" class="form-control" />
+        <span asp-validation-for="Descricao" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Preco" class="control-label"></label>
+        <input asp-for="Preco" class="form-control" />
+        <span asp-validation-for="Preco" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Imagem" class="control-label">Upload Image</label>
+        <input asp-for="Imagem" class="form-control" type="file" />
+        <span asp-validation-for="Imagem" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="VisivelNaPaginaInicial" asp-for="VisivelNaPaginaInicial">
+
+            <label class="form-check-label" for="visivelNaPaginaInicial">
+                Exibir na Página Inicial
+            </label>
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>

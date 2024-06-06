@@ -1,0 +1,36 @@
+﻿@model IEnumerable<LojaOnline.Models.Produto>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loja Online</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1 class="my-4">Produtos</h1>
+        <div class="row">
+            @foreach (var produto in Model)
+            {
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card h-100">
+                        <a href="#"><img class="card-img-top" src="@produto.ImagemUrl" alt=""></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="#">@produto.Nome</a>
+                            </h4>
+                            <h5>@produto.Preco.ToString("C")</h5>
+                            <p class="card-text">@produto.Descricao</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

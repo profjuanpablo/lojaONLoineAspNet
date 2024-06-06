@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E47BEDBC-782B-4F41-BF1D-A4862727DCAE}|LojaOnLine\\LojaOnLine.csproj|c:\\users\\profj\\source\\repos\\lojaonline\\lojaonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47BEDBC-782B-4F41-BF1D-A4862727DCAE}|LojaOnLine\\LojaOnLine.csproj|solutionrelative:lojaonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47BEDBC-782B-4F41-BF1D-A4862727DCAE}|LojaOnLine\\LojaOnLine.csproj|c:\\users\\profj\\source\\repos\\lojaonline\\lojaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47BEDBC-782B-4F41-BF1D-A4862727DCAE}|LojaOnLine\\LojaOnLine.csproj|solutionrelative:lojaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47BEDBC-782B-4F41-BF1D-A4862727DCAE}|LojaOnLine\\LojaOnLine.csproj|c:\\users\\profj\\source\\repos\\lojaonline\\lojaonline\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47BEDBC-782B-4F41-BF1D-A4862727DCAE}|LojaOnLine\\LojaOnLine.csproj|solutionrelative:lojaonline\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47BEDBC-782B-4F41-BF1D-A4862727DCAE}|LojaOnLine\\LojaOnLine.csproj|c:\\users\\profj\\source\\repos\\lojaonline\\lojaonline\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47BEDBC-782B-4F41-BF1D-A4862727DCAE}|LojaOnLine\\LojaOnLine.csproj|solutionrelative:lojaonline\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47BEDBC-782B-4F41-BF1D-A4862727DCAE}|LojaOnLine\\LojaOnLine.csproj|c:\\users\\profj\\source\\repos\\lojaonline\\lojaonline\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E47BEDBC-782B-4F41-BF1D-A4862727DCAE}|LojaOnLine\\LojaOnLine.csproj|solutionrelative:lojaonline\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47BEDBC-782B-4F41-BF1D-A4862727DCAE}|LojaOnLine\\LojaOnLine.csproj|c:\\users\\profj\\source\\repos\\lojaonline\\lojaonline\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47BEDBC-782B-4F41-BF1D-A4862727DCAE}|LojaOnLine\\LojaOnLine.csproj|solutionrelative:lojaonline\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Migrations\\20240605235444_VisibilidadeProduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LojaOnLine\\Migrations\\20240605235444_VisibilidadeProduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LojaOnLine\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LojaOnLine\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T00:20:11.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LojaOnLine\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "LojaOnLine\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T00:03:26.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "LojaOnLine\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "LojaOnLine\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:56:35.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240605235444_VisibilidadeProduto.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Migrations\\20240605235444_VisibilidadeProduto.cs",
+              "RelativeDocumentMoniker": "LojaOnLine\\Migrations\\20240605235444_VisibilidadeProduto.cs",
+              "ToolTip": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Migrations\\20240605235444_VisibilidadeProduto.cs",
+              "RelativeToolTip": "LojaOnLine\\Migrations\\20240605235444_VisibilidadeProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:54:44.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "LojaOnLine\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "LojaOnLine\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T23:42:13.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "LojaOnLine\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Models\\Produto.cs",
+              "RelativeToolTip": "LojaOnLine\\Models\\Produto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA5wA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:41:00.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LojaOnLine\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\profj\\source\\repos\\LojaOnLine\\LojaOnLine\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LojaOnLine\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:40:20.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
